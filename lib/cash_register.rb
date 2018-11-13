@@ -8,8 +8,6 @@ def initialize()
   @discount = discount
 end
 
-def discount
-   @discount = discount
-  end
+
 
 end
