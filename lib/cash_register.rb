@@ -5,7 +5,7 @@ attr_accessor :total
 def initialize()
   total = 0 
   @total = total
-  discount(employee_discount)
+  self.discount(employee_discount)
 end
 
 def discount(employee_discount)
